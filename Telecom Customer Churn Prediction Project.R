@@ -1,4 +1,4 @@
-##Project: ANA625
+##Project: Telecom Customer Churn Prediction Project on R
 ##Author: Kornkanok Somkul, Shashi Bala
 
 #import file
