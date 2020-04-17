@@ -1,10 +1,10 @@
-#Telecom Customer Churn Prediction Project
+## Telecom Customer Churn Prediction Project
 
 This analysis focuses on the behavior of telecom customers who are more likely to leave the platform. 
 
 We intend to find out the most striking behavior of customers through EDA and later on use some of the predictive analytics techniques to determine the customers who are most likely to churn.
 
-##The data set includes information about:
+## The data set includes information about:
 
 •	Customers who left within the last month – the column is called Churn
 
@@ -14,8 +14,11 @@ We intend to find out the most striking behavior of customers through EDA and la
 
 •	Demographic info about customers – gender, age range, and if they have partners and dependents       
 
+## Methods applied:
 
-#Data source
+
+
+## Data source:
 
 Kaggle datasets repository
 
