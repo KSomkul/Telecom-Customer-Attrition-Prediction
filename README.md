@@ -1,4 +1,4 @@
-#Telecom Customer Churn Prediction Project
+##Telecom Customer Churn Prediction Project
 
 This analysis focuses on the behavior of telecom customers who are more likely to leave the platform. 
 
@@ -15,7 +15,7 @@ The data set includes information about:
 •	Demographic info about customers – gender, age range, and if they have partners and dependents       
 
 
-#Data source
+##Data source
 
 Kaggle datasets repository
 
