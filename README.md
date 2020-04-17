@@ -14,9 +14,13 @@ We intend to find out the most striking behavior of customers through EDA and la
 
 •	Demographic info about customers – gender, age range, and if they have partners and dependents       
 
-## Methods applied:
+## Project Overview:
 
+•	Exploratory Data Analysis
 
+•	Data Pre-processing
+
+•	Modeling and Evaluating
 
 ## Data source:
 
