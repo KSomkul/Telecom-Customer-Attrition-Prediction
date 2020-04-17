@@ -20,7 +20,7 @@ We intend to find out the most striking behavior of customers through EDA and la
 
 ## Data source:
 
-Kaggle datasets repository
+IBM
 
 
 
