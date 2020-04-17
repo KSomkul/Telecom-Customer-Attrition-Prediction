@@ -463,4 +463,3 @@ print("Confusion Matrix for Decision Tree"); table(Predicted = pred_tree, Actual
 # Random Forest Initial Model
 rfModel <- randomForest(Churn ~., data = Telcom2_train)
 print(rfModel)
-
